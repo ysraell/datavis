@@ -1,2 +1,2 @@
-# DataVisualisation
-Material for data visualisation course.
+# DataVisualization
+Material for data visualization course.
