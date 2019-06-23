@@ -19,6 +19,8 @@ Poucos dias após o acidente, um novo navio de mesmo modelo fará uma viagem com
 
 - Stanford, CS109, 'A Titanic Probability': https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html
 
+--------------------
+
 # Trilha 2: E-mail marketing
 
 ## Contexto
@@ -104,10 +106,12 @@ Referências retiradas do cap. 6 do curso citado acima:
 
 - Painéis no Power BI https://powerbi.microsoft.com/pt-br/documentation/powerbi-service-dashboards/
 
-### Após as referências, nesse notebook, é apresentado uma forma de criar três grupos de filtro baseado em idade (sem justificativa).
+### É apresentada uma forma de criar três grupos de filtro baseado em idade (sem justificativa) no notebook `Trilha2`.
 
 #### Referências:
 
 - Adult Census Income: Predict whether income exceeds \$50K/yr based on census data. Access: https://www.kaggle.com/uciml/adult-census-income
 
 - Whose income will exceed 50K? Access: https://www.kaggle.com/jiashenliu/who-can-earn-more-than-50k-per-year
+
+--------------------
