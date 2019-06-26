@@ -15,3 +15,4 @@
 - Highcharts (JS): https://www.highcharts.com/demo
 - Google Charts (JS): https://developers.google.com/chart/?hl=pt-US
 - Polymaps (JS): http://polymaps.org/
+- FACETS (JS): https://pair-code.github.io/facets/
