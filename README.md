@@ -184,7 +184,7 @@ Arquivo: UCI_Credit_Card.csv (~2,8 MB).
 - 2) Apresentar e justificar apenas os resultados.
 - 3) Não precisa explicar os métodos utilizados, mas deve, no mínimo, justificar o uso (durante a apresentação dos resultados).
 - 4) O painel para apresentação (e possíveis painéis progressivos) deve ser estático e gerado em PDF.
-- 5) O painel (em PDF) deve ser finalizado e enviado para o professor até às **18:00** do dia 15 de julho. Para os casos de envio após 19:00, o conceito da atividade será divido por 2.
+- 5) O painel, **em PDF** deve ser enviado para o professor até às **18:00** do dia 15 de julho. Para os casos de envio após 19:00, o conceito da atividade será divido por 2.
 - 6) O tempo de apresentação será de 10 minutos por grupo de alunos. Para cada 1 minuto excedente será descontado 1/10 do conceito da atividade, com o máximo de 5 minutos. O limite é de 15 minutos seguida de interrupção imediata.
 - 7) É reservado 5 minutos para que o gerente (cliente) faça perguntas e as respostas segam dadas (ou seja, o tempo não sofre pausa).
 - 8) Nenhuma observação será feita pelo professor no dia da apresentação.
