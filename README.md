@@ -83,8 +83,6 @@ Recém formado tecnólogo em marketing pela UniRitter: https://www.uniritter.edu
 
 ## Material de apoio.
 
-### Gráficos diversos:
-
 ### Programas para montar o painel:
 
 #### Tableau
@@ -115,3 +113,106 @@ Referências retiradas do cap. 6 do curso citado acima:
 - Whose income will exceed 50K? Access: https://www.kaggle.com/jiashenliu/who-can-earn-more-than-50k-per-year
 
 --------------------
+
+
+# Trilha 3A: Desarmamento civil.
+
+### Introdução:
+
+O desarmamento civil é envolto em polêmicas: há aqueles que defendem o desarmamento alegando, dentre outras, que é a melhor forma promover maior segurança entre os indivíduos; e entre aqueles que são contra, alegam exatamente o oposto. Não seria uma polêmica se não houvessem tantos estudos e tantas pesquisas alegando de tudo, tanto a favor quanto contra. Para a maioria da população, a qual não possui nem tempo e nem conhecimento o suficiente para entender sobre o assunto, é um assunto sem resposta (ao passo que há tantas respostas candidatas diferentes). O objetivo dos cientistas e técnicos especializados, é (ou deveria) ser o de elucidar, com dados e uma lógica honesta, a questão. Com efeito, o cientista de dados deve ter a capacidade de reunir informações (dados), analisar e oferecer um parecer adequado e de acordo com os dados reais, os fatos. 
+
+### Proposta:
+
+Construir a apresentar um infográfico ou um painel (*dashboard*), com *storyboard* (painéis progressivos) opcional, com uma análise sobre a efetividade (positiva ou negativa) do desarmamento civil. O objetivo da apresentação (e do material produzido) é o de responder a seguinte pergunta: "O desarmamento civil produz resultados positivos para a população?". Relação com casos nos quais a população não sofre com leis de desarmamento civil podem ser utilizados para fins de argumentação.
+
+## Especificações.
+
+- 1) Apresentar na forma de painel de gráficos (*dashboard*) ou infográfico. No caso de painel, o *storyboard* é opcional. O infográfico pode ter barra de rolagem.
+- 2) Responder e justificar apenas a pergunta  "O desarmamento civil produz resultados positivos para a população?". 
+- 3) Não precisa explicar os métodos utilizados.
+- 4) *Item removido*.
+- 5) O painel, **em PDF**, deve ser finalizado e enviado para o professor até às **18:00** do dia 15 de julho. Para os casos de envio após 19:00, o conceito da atividade será divido por 2. O envio deve ser copiado para todos os integrantes do grupo.
+- 6) O tempo de apresentação será de 10 minutos por grupo de alunos. Para cada 1 minuto excedente será descontado 1/10 do conceito da atividade, com o máximo de 5 minutos. O limite é de 15 minutos seguida de interrupção imediata.
+- 7) É reservado 5 minutos para que o professor e os demais alunos façam perguntas e as respostas segam dadas (ou seja, o tempo não sofre pausa).
+- 8) Nenhuma observação será feita pelo professor no dia da apresentação.
+- 9) Os grupos devem se organizar para realizar as apresentações com início às 19:00.
+- 10) *Item removido*
+- 11) O intervalo de tempo entre o fim de uma apresentação e o início de outra será arbitrado pelo professor.
+- 12) Formato da apresentação livre (mais de pode apresentar).
+- 13) *Item removido*
+- 14) Salvo o item 11, a organização e as trocas de apresentação devem ser gerenciadas pelos próprios alunos.
+- 15) Casos de ausências devem ser justificados (sem a necessidade de comprovantes ou atestados diversos) por e-mail.
+- 16) Todos os grupos devem apresentar até o dia 15 de julho, sem alternativa possível (pois é o ultimo dia de aula).
+- 17) Antecipações serão permitidas e terão por feito nulo os itens 6 e 7, sendo os tempos, então, arbitrados com maior flexibilidade pelo professor no momento da apresentação.
+- 18) É arbitrado ao professor modificar, anular e adicionar itens em qualquer tempo.
+- 19) É arbitrado aos integrantes do grupo a melhor forma de apresentar e quais argumentos serão apresentados, não há limitações gerais.
+- 20) Não será avaliado, nem julgado, pelo professor (e tão pouco verificado) os dados e informações usados, serão avaliados apenas os seguintes itens: qualidade do material produzido e o correto uso dos gráficos.
+- 21) *Item removido*.
+
+## Recomendações.
+
+- 1) Não use blocos de textos e não leia durante a apresentação. Ainda que se use um infográfico, evite ao máximo textos volumosos.
+- 2) Use até 6 quadros ou blocos de gráfico(s) (frames) até dois quadros progressivos (*storyboard*) por quadro.
+- 3) Não conte a história do trabalho prévio, foque apenas em mostrar e justificar a análise e suas conclusões.
+- 4) Ensaie a apresentação com um cronômetro com alarme.
+- 5) Escreva os tópicos a serem tratados com um resumo das explicações e verifique se está coerente com o que é mostrado e se contribui como justificativa. Não há a necessidade de explicar o que deu errado previamente ou demais detalhes da análise que não sirvam como justificativa direta para os resultados.
+- 6) *Item removido*
+- 7) *Item removido* 
+- 8) Não fique em dúvida, fale com o professor ou com os colegas. Mande e-mail para o professor com a dúvida quando não estiver em aula.
+
+# Trilha 3B: Inadimplência no Cartão de Crédito.
+
+### Introdução:
+
+Com a maior popularização dos produtos como serviço (*as a service*), a automatização de crédito não ficaria de fora dessa. Com efeito, temos a modalidade de crédito como serviço (*credit as a service*), a qual fornece ao cliente um crédito de forma automatizada (sem intervenção humana). Nisso, abre-se um problema: como oferecer à financeira um nível de segurança adequado para o sistema automatizado de aprovação de crédito? 
+
+No contexto apresentado, um gerente de uma financeira solicita a uma empresa de cientistas de dados uma forma de atribuir uma pontuação de risco de inadimplência de acordo, apenas, com o sexo, com o nível educacional, com o status matrimonial e com a idade. Tal forma poderá ser usada no sistema autônomo de crédito.
+
+### Proposta:
+
+Um painel (*dashboard*), com *storyboard* (painéis progressivos) opcional, com o qual justifica-se a forma utilizada de pontuação. A pontuação deve discriminar os clientes com diferentes características. Não há restrição em relação aos valores absolutos da pontuação. O cliente não está interessado em detalhes de inadimplência (quantas parcelas em atraso, tempo de atraso de pagamento etc.).
+
+### Dados:
+
+[Default Payments of Credit Card Clients in Taiwan from 2005](https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset#UCI_Credit_Card.csv)
+
+Arquivo: UCI_Credit_Card.csv (~2,8 MB).
+
+## Especificações.
+
+- 1) Apresentar na forma de painel de gráficos (*dashboard*). O *storyboard* é opcional.
+- 2) Apresentar e justificar apenas os resultados.
+- 3) Não precisa explicar os métodos utilizados, mas deve, no mínimo, justificar o uso (durante a apresentação dos resultados).
+- 4) O painel para apresentação (e possíveis painéis progressivos) deve ser estático e gerado em PDF.
+- 5) O painel (em PDF) deve ser finalizado e enviado para o professor até às **18:00** do dia 15 de julho. Para os casos de envio após 19:00, o conceito da atividade será divido por 2.
+- 6) O tempo de apresentação será de 10 minutos por grupo de alunos. Para cada 1 minuto excedente será descontado 1/10 do conceito da atividade, com o máximo de 5 minutos. O limite é de 15 minutos seguida de interrupção imediata.
+- 7) É reservado 5 minutos para que o gerente (cliente) faça perguntas e as respostas segam dadas (ou seja, o tempo não sofre pausa).
+- 8) Nenhuma observação será feita pelo professor no dia da apresentação.
+- 9) Os grupos devem se organizar para realizar as apresentações com início às 19:00.
+- 10) O professor deixará o computador da sala com as apresentações prontas a partir das 19:00.
+- 11) O intervalo de tempo entre o fim de uma apresentação e o início de outra será arbitrado pelo gerente (cliente).
+- 12) Apenas um integrante do grupo apresenta;
+- 13) os demais integrantes podem responder quando o gerente fizer perguntas.
+- 14) Salvo os itens 10 e 11, a organização e as trocas de apresentação devem ser gerenciadas pelos próprios alunos.
+- 15) Casos de ausências devem ser justificados (sem a necessidade de comprovantes ou atestados diversos) por e-mail.
+- 16) Todos os grupos devem apresentar até o dia 15 de julho, não há alternativa.
+- 17) Antecipações serão permitidas e terão por feito nulo os itens 6 e 7, sendo os tempos, então, arbitrados com maior flexibilidade pelo professor no momento da apresentação.
+- 18) É arbitrado ao professor modificar, anular e adicionar itens em qualquer tempo.
+- 19) É dispensada análise além dos dados disponibilizados. Não discorra sobre detalhes do contexto proposto que vão além dos dados e do que é solicitado. A analise deve ser totalmente orientado aos dados fornecidos.
+- 20) Não será avaliado pelo professor (e tão pouco verificado) os grupos de filtros propostos, mas, sim, as justificativas e a forma como foram apresentadas.
+- 21) Não há um desempenho mínimo de assertividade dos filtros, todavia não apresente resultados triviais.
+
+## Recomendações.
+
+- 1) Não use blocos de textos e não leia durante a apresentação.
+- 2) Use até 6 quadros ou blocos de gráfico(s) (frames) até dois quadros progressivos (*storyboard*) por quadro.
+- 3) Não conte a história do trabalho prévio, foque apenas em mostrar e justificar os resultados.
+- 4) Ensaie a apresentação com um cronômetro com alarme.
+- 5) Escreva os tópicos a serem tratados com um resumo das explicações e verifique se está coerente com o que é mostrado e se contribui como justificativa. Não há a necessidade de explicar o que deu errado previamente ou demais detalhes da análise que não sirvam como justificativa direta para os resultados.
+- 6) Não há a necessidade se implementar um método específico para geração dos grupos, todavia, devido ao tamanho reduzido da base, com uma avaliação gráfica geral seguida de extração de *features* já se consegue um bom resultado com justificativa coerente.
+- 7) Sendo redundante: o objetivo não é ganhar o primeiro lugar num desafio do *Kaggle*, mas é o de fazer uma apresentação clara, objetiva e coerente. Não importa a qualidade do resultado quando a forma como esse é apresentado é inadequada.
+- 8) Não fique em dúvida, fale com o professor ou com os colegas. Mande e-mail para o professor com a dúvida quando não estiver em aula.
+
+#### Referências:
+
+[Default of credit card clients Data Set.](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)
