@@ -54,7 +54,7 @@ Recém formado tecnólogo em marketing pela UniRitter: https://www.uniritter.edu
 - 4) O painel para apresentação (e possíveis painéis progressivos) deve ser estático e gerado em PDF.
 - 5) O painel (em PDF) deve ser finalizado e enviado para o professor até às **18:00** do dia 3 de julho. Para os casos de envio após 19:00, o conceito da atividade será divido por 2.
 - 6) O tempo de apresentação será de 10 minutos por grupo de alunos. Para cada 1 minuto excedente será descontado 1/10 do conceito da atividade, com o máximo de 5 minutos. O limite é de 15 minutos seguida de interrupção imediata.
-- 7) É reservado 5 minutos para que o gerente (cliente) faça perguntas e as respostas segam dadas (ou seja, o tempo não sofre pausa).
+- 7) É reservado 5 minutos para que o gerente (cliente) faça perguntas e as respostas sejam dadas (ou seja, o tempo não sofre pausa).
 - 8) Nenhuma observação será feita pelo professor no dia da apresentação.
 - 9) Os grupos devem ser organizar para realizar as apresentações com início às 19:00.
 - 10) O professor deixará o computador da sala com as apresentações prontas a partir das 19:00.
@@ -131,7 +131,7 @@ Construir a apresentar um infográfico ou um painel (*dashboard*), com *storyboa
 - 2) Responder e justificar apenas a pergunta  "O desarmamento civil produz resultados positivos para a população?". 
 - 3) Não precisa explicar os métodos utilizados.
 - 4) *Item removido*.
-- 5) O painel, **em PDF**, deve ser finalizado e enviado para o professor até às **18:00** do dia 15 de julho. Para os casos de envio após 19:00, o conceito da atividade será divido por 2. O envio deve ser copiado para todos os integrantes do grupo.
+- 5) O painel, **em PDF**, deve ser finalizado e enviado para o professor até às **18:00** do dia 15 de julho. Envios posteriores são desconsiderados a apresentação será cancelada, tendo como efeito o trabalho não entregue e com nota zero. O envio deve ser feito para o professor e para todos os integrantes do grupo.
 - 6) O tempo de apresentação será de 10 minutos por grupo de alunos. Para cada 1 minuto excedente será descontado 1/10 do conceito da atividade, com o máximo de 5 minutos. O limite é de 15 minutos seguida de interrupção imediata.
 - 7) É reservado 5 minutos para que o professor e os demais alunos façam perguntas e as respostas segam dadas (ou seja, o tempo não sofre pausa).
 - 8) Nenhuma observação será feita pelo professor no dia da apresentação.
@@ -170,7 +170,7 @@ No contexto apresentado, um gerente de uma financeira solicita a uma empresa de 
 
 ### Proposta:
 
-Um painel (*dashboard*), com *storyboard* (painéis progressivos) opcional, com o qual justifica-se a forma utilizada de pontuação. A pontuação deve discriminar os clientes com diferentes características. Não há restrição em relação aos valores absolutos da pontuação. O cliente não está interessado em detalhes de inadimplência (quantas parcelas em atraso, tempo de atraso de pagamento etc.).
+Porduzir um painel (*dashboard*), com *storyboard* (painéis progressivos) opcional, com o qual justifica-se a forma utilizada de pontuação. A pontuação deve discriminar os clientes com diferentes características. Não há restrição em relação aos valores absolutos da pontuação. O cliente não está interessado em detalhes de inadimplência (quantas parcelas em atraso, tempo de atraso de pagamento etc.).
 
 ### Dados:
 
@@ -183,13 +183,13 @@ Arquivo: UCI_Credit_Card.csv (~2,8 MB).
 - 1) Apresentar na forma de painel de gráficos (*dashboard*). O *storyboard* é opcional.
 - 2) Apresentar e justificar apenas os resultados.
 - 3) Não precisa explicar os métodos utilizados, mas deve, no mínimo, justificar o uso (durante a apresentação dos resultados).
-- 4) O painel para apresentação (e possíveis painéis progressivos) deve ser estático e gerado em PDF.
-- 5) O painel, **em PDF** deve ser enviado para o professor até às **18:00** do dia 15 de julho. Para os casos de envio após 19:00, o conceito da atividade será divido por 2.
+- 4) O painel para apresentação (e possíveis painéis progressivos) pode ser estático ou dinâmico.
+- 5) O painel, **em PDF** deve ser enviado para o professor até às **18:00** do dia 15 de julho. Envios posteriores são desconsiderados a apresentação será cancelada, tendo como efeito o trabalho não entregue e com nota zero. O envio deve ser feito para o professor e para todos os integrantes do grupo.
 - 6) O tempo de apresentação será de 10 minutos por grupo de alunos. Para cada 1 minuto excedente será descontado 1/10 do conceito da atividade, com o máximo de 5 minutos. O limite é de 15 minutos seguida de interrupção imediata.
-- 7) É reservado 5 minutos para que o gerente (cliente) faça perguntas e as respostas segam dadas (ou seja, o tempo não sofre pausa).
+- 7) É reservado 5 minutos para que o gerente (cliente) faça perguntas e as respostas sejam dadas (ou seja, o tempo não sofre pausa).
 - 8) Nenhuma observação será feita pelo professor no dia da apresentação.
 - 9) Os grupos devem se organizar para realizar as apresentações com início às 19:00.
-- 10) O professor deixará o computador da sala com as apresentações prontas a partir das 19:00.
+- 10) *Item removidp*
 - 11) O intervalo de tempo entre o fim de uma apresentação e o início de outra será arbitrado pelo gerente (cliente).
 - 12) Apenas um integrante do grupo apresenta;
 - 13) os demais integrantes podem responder quando o gerente fizer perguntas.
@@ -199,8 +199,8 @@ Arquivo: UCI_Credit_Card.csv (~2,8 MB).
 - 17) Antecipações serão permitidas e terão por feito nulo os itens 6 e 7, sendo os tempos, então, arbitrados com maior flexibilidade pelo professor no momento da apresentação.
 - 18) É arbitrado ao professor modificar, anular e adicionar itens em qualquer tempo.
 - 19) É dispensada análise além dos dados disponibilizados. Não discorra sobre detalhes do contexto proposto que vão além dos dados e do que é solicitado. A analise deve ser totalmente orientado aos dados fornecidos.
-- 20) Não será avaliado pelo professor (e tão pouco verificado) os grupos de filtros propostos, mas, sim, as justificativas e a forma como foram apresentadas.
-- 21) Não há um desempenho mínimo de assertividade dos filtros, todavia não apresente resultados triviais.
+- 20) Não será avaliado pelo professor (e tão pouco verificado) os resultados, mas, sim, as justificativas e a forma como foram apresentados.
+- 21) Não há um desempenho mínimo de assertividade dos resultados, todavia não apresente resultados triviais.
 
 ## Recomendações.
 
@@ -209,7 +209,7 @@ Arquivo: UCI_Credit_Card.csv (~2,8 MB).
 - 3) Não conte a história do trabalho prévio, foque apenas em mostrar e justificar os resultados.
 - 4) Ensaie a apresentação com um cronômetro com alarme.
 - 5) Escreva os tópicos a serem tratados com um resumo das explicações e verifique se está coerente com o que é mostrado e se contribui como justificativa. Não há a necessidade de explicar o que deu errado previamente ou demais detalhes da análise que não sirvam como justificativa direta para os resultados.
-- 6) Não há a necessidade se implementar um método específico para geração dos grupos, todavia, devido ao tamanho reduzido da base, com uma avaliação gráfica geral seguida de extração de *features* já se consegue um bom resultado com justificativa coerente.
+- 6) Não há a necessidade se implementar um método específico, todavia, devido ao tamanho reduzido da base, com uma avaliação gráfica geral seguida de extração de *features* já se consegue um bom resultado com justificativa coerente.
 - 7) Sendo redundante: o objetivo não é ganhar o primeiro lugar num desafio do *Kaggle*, mas é o de fazer uma apresentação clara, objetiva e coerente. Não importa a qualidade do resultado quando a forma como esse é apresentado é inadequada.
 - 8) Não fique em dúvida, fale com o professor ou com os colegas. Mande e-mail para o professor com a dúvida quando não estiver em aula.
 
