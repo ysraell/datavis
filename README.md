@@ -119,7 +119,7 @@ Referências retiradas do cap. 6 do curso citado acima:
 
 ### Introdução:
 
-O desarmamento civil é envolto em polêmicas: há aqueles que defendem o desarmamento alegando, dentre outras, que é a melhor forma promover maior segurança entre os indivíduos; e entre aqueles que são contra, alegam exatamente o oposto. Não seria uma polêmica se não houvessem tantos estudos e tantas pesquisas alegando de tudo, tanto a favor quanto contra. Para a maioria da população, a qual não possui nem tempo e nem conhecimento o suficiente para entender sobre o assunto, é um assunto sem resposta (ao passo que há tantas respostas candidatas diferentes). O objetivo dos cientistas e técnicos especializados, é (ou deveria) ser o de elucidar, com dados e uma lógica honesta, a questão. Com efeito, o cientista de dados deve ter a capacidade de reunir informações (dados), analisar e oferecer um parecer adequado e de acordo com os dados reais, os fatos. 
+O desarmamento civil é envolto em polêmicas: há aqueles que defendem o desarmamento alegando, dentre outras, que é a melhor forma promover maior segurança entre os indivíduos; e entre aqueles que são contra, alegam o mesmo propósito. Não seria uma polêmica se não houvessem tantos estudos e tantas pesquisas alegando de tudo, tanto a favor, quanto contra. Para a maioria da população, a qual não possui nem tempo e nem conhecimento o suficiente para entender sobre o assunto, é um assunto sem resposta (ao passo que há tantas respostas candidatas diferentes). O objetivo dos cientistas e dos técnicos especializados é (ou deveria) ser o de elucidar, com dados e uma lógica honesta, a questão. Com efeito, o cientista de dados deve ter a capacidade de reunir informações (dados), analisar e oferecer um parecer adequado e de acordo com os dados reais, os fatos. 
 
 ### Proposta:
 
@@ -127,18 +127,18 @@ Construir a apresentar um infográfico ou um painel (*dashboard*), com *storyboa
 
 ## Especificações.
 
-- 1) Apresentar na forma de painel de gráficos (*dashboard*) ou infográfico. No caso de painel, o *storyboard* é opcional. O infográfico pode ter barra de rolagem.
+- 1) Apresentar na forma de painel de gráficos (*dashboard*) ou infográfico. No caso de painel, o *storyboard* é opcional. Apenas o infográfico pode ter barra de rolagem.
 - 2) Responder e justificar apenas a pergunta  "O desarmamento civil produz resultados positivos para a população?". 
 - 3) Não precisa explicar os métodos utilizados.
 - 4) *Item removido*.
-- 5) O painel, **em PDF**, deve ser finalizado e enviado para o professor até às **18:00** do dia 15 de julho. Envios posteriores são desconsiderados a apresentação será cancelada, tendo como efeito o trabalho não entregue e com nota zero. O envio deve ser feito para o professor e para todos os integrantes do grupo.
+- 5) O painel ou o infográfico, **em PDF**, deve ser finalizado e enviado para o professor até às **18:00** do dia 15 de julho. Envios posteriores srrão desconsiderados a apresentação será cancelada (tendo como efeito o trabalho não entregue e com nota zero). O envio deve ser feito para o professor e para todos os integrantes do grupo na mesma mensagem.
 - 6) O tempo de apresentação será de 10 minutos por grupo de alunos. Para cada 1 minuto excedente será descontado 1/10 do conceito da atividade, com o máximo de 5 minutos. O limite é de 15 minutos seguida de interrupção imediata.
-- 7) É reservado 5 minutos para que o professor e os demais alunos façam perguntas e as respostas segam dadas (ou seja, o tempo não sofre pausa).
+- 7) É reservado 5 minutos para que o professor e os demais alunos façam perguntas e as respostas sejam dadas (ou seja, o tempo não sofre pausa).
 - 8) Nenhuma observação será feita pelo professor no dia da apresentação.
 - 9) Os grupos devem se organizar para realizar as apresentações com início às 19:00.
 - 10) *Item removido*
 - 11) O intervalo de tempo entre o fim de uma apresentação e o início de outra será arbitrado pelo professor.
-- 12) Formato da apresentação livre (mais de pode apresentar).
+- 12) Formato da apresentação livre (mais de um dos integrantes podem apresentar).
 - 13) *Item removido*
 - 14) Salvo o item 11, a organização e as trocas de apresentação devem ser gerenciadas pelos próprios alunos.
 - 15) Casos de ausências devem ser justificados (sem a necessidade de comprovantes ou atestados diversos) por e-mail.
@@ -184,7 +184,7 @@ Arquivo: UCI_Credit_Card.csv (~2,8 MB).
 - 2) Apresentar e justificar apenas os resultados.
 - 3) Não precisa explicar os métodos utilizados, mas deve, no mínimo, justificar o uso (durante a apresentação dos resultados).
 - 4) O painel para apresentação (e possíveis painéis progressivos) pode ser estático ou dinâmico.
-- 5) O painel, **em PDF** deve ser enviado para o professor até às **18:00** do dia 15 de julho. Envios posteriores são desconsiderados a apresentação será cancelada, tendo como efeito o trabalho não entregue e com nota zero. O envio deve ser feito para o professor e para todos os integrantes do grupo.
+- 5) O painel **em PDF** deve ser enviado para o professor até às **18:00** do dia 15 de julho. Envios posteriores serão desconsiderados e a apresentação será cancelada, tendo como efeito o trabalho não entregue e com nota zero. O envio deve ser feito para o professor e para todos os integrantes do grupo no mesmo envio.
 - 6) O tempo de apresentação será de 10 minutos por grupo de alunos. Para cada 1 minuto excedente será descontado 1/10 do conceito da atividade, com o máximo de 5 minutos. O limite é de 15 minutos seguida de interrupção imediata.
 - 7) É reservado 5 minutos para que o gerente (cliente) faça perguntas e as respostas sejam dadas (ou seja, o tempo não sofre pausa).
 - 8) Nenhuma observação será feita pelo professor no dia da apresentação.
