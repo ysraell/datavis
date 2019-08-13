@@ -19,6 +19,10 @@ Poucos dias após o acidente, um novo navio de mesmo modelo fará uma viagem com
 
 - Stanford, CS109, 'A Titanic Probability': https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html
 
+## Especificações.
+
+1) Um dos integrantes deve mandar o material (sem os dados) produzido por e-mail para o professor copiando todos os demais integrantes. Deve constar no corpo do e-mail o nome completo.
+
 --------------------
 
 # Trilha 2: E-mail marketing (desatualizado)
