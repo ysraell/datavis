@@ -25,8 +25,7 @@ Poucos dias após o acidente, um novo navio de mesmo modelo fará uma viagem com
 
 --------------------
 
-# Trilha 2: E-mail marketing (desatualizado)
-
+# Trilha 2: E-mail marketing
 ## Contexto
 
 ### Introdução:
@@ -56,7 +55,7 @@ Recém formado tecnólogo em marketing pela UniRitter: https://www.uniritter.edu
 - 2) Apresentar e justificar apenas os resultados.
 - 3) Não precisa explicar os métodos utilizados, mas deve, no mínimo, justificar o uso (durante a apresentação dos resultados).
 - 4) O painel para apresentação (e possíveis painéis progressivos) deve ser estático e gerado em PDF.
-- 5) O painel (em PDF) deve ser finalizado e enviado para o professor até às **18:00** do dia 3 de julho. Para os casos de envio após 19:00, o conceito da atividade será divido por 2.
+- 5) O painel (em PDF) deve ser finalizado e enviado para o professor até às **18:00** do dia da apresentação. Para os casos de envio após 19:00, o conceito da atividade será divido por 2.
 - 6) O tempo de apresentação será de 10 minutos por grupo de alunos. Para cada 1 minuto excedente será descontado 1/10 do conceito da atividade, com o máximo de 5 minutos. O limite é de 15 minutos seguida de interrupção imediata.
 - 7) É reservado 5 minutos para que o gerente (cliente) faça perguntas e as respostas sejam dadas (ou seja, o tempo não sofre pausa).
 - 8) Nenhuma observação será feita pelo professor no dia da apresentação.
@@ -67,7 +66,7 @@ Recém formado tecnólogo em marketing pela UniRitter: https://www.uniritter.edu
 - 13) os demais integrantes podem responder quando o gerente fizer perguntas.
 - 14) Salvo os itens 10 e 11, a organização e as trocas de apresentação devem ser gerenciadas pelos próprios alunos.
 - 15) Casos de ausências devem ser justificados (sem a necessidade de comprovantes ou atestados diversos) por e-mail.
-- 16) Todos os grupos devem apresentar no dia 3 de julho, podendo o professor arbitrar por transferir algum grupo para a aula seguinte.
+- 16) Todos os grupos devem apresentar no dia da apresentação, podendo o professor arbitrar por transferir algum grupo para a aula seguinte.
 - 17) Antecipações serão permitidas e terão por feito nulo os itens 6 e 7, sendo os tempos, então, arbitrados com maior flexibilidade pelo professor no momento da apresentação.
 - 18) É arbitrado ao professor modificar, anular e adicionar itens em qualquer tempo.
 - 19) É dispensada análise além dos dados disponibilizados. Não discorra sobre detalhes do contexto proposto que vão além dos dados e do que é solicitado. A analise deve ser totalmente orientado aos dados fornecidos.
@@ -119,15 +118,15 @@ Referências retiradas do cap. 6 do curso citado acima:
 --------------------
 
 
-# Trilha 3: ~~Desarmamento civil~~. (desatualizado)
+# Trilha 3: Liberdade Econômica.
 
 ### Introdução:
 
-~~O desarmamento civil é envolto em polêmicas: há aqueles que defendem o desarmamento alegando, dentre outras, que é a melhor forma promover maior segurança entre os indivíduos; e entre aqueles que são contra, alegam o mesmo propósito. Não seria uma polêmica se não houvessem tantos estudos e tantas pesquisas alegando de tudo, tanto a favor, quanto contra. Para a maioria da população, a qual não possui nem tempo e nem conhecimento o suficiente para entender sobre o assunto, é um assunto sem resposta (ao passo que há tantas respostas candidatas diferentes). O objetivo dos cientistas e dos técnicos especializados é (ou deveria) ser o de elucidar, com dados e uma lógica honesta, a questão. Com efeito, o cientista de dados deve ter a capacidade de reunir informações (dados), analisar e oferecer um parecer adequado e de acordo com os dados reais, os fatos~~
+A liberdade econômica posibilita uma maior eficiência na produção de riqueza. Países/regiões que investiram no sentido de aumentar a liberdade econômica conseguiram melhorar seus índices socio-econômicos. Do outro lado, pode-se observar uma fuga de pessoas (principalmente com maior nível eduacional) de países menos livres para os mais livres (p.e.: fuca de Cuba para os EUA).
 
 ### Proposta:
 
-~~Construir a apresentar um infográfico ou um painel (*dashboard*), com *storyboard* (painéis progressivos) opcional, com uma análise sobre a efetividade (positiva ou negativa) do desarmamento civil. O objetivo da apresentação (e do material produzido) é o de responder a seguinte pergunta: "O desarmamento civil produz resultados positivos para a população?". Relação com casos nos quais a população não sofre com leis de desarmamento civil podem ser utilizados para fins de argumentação.~~
+Construir a apresentar um infográfico ou um painel (*dashboard*), com *storyboard* (painéis progressivos) opcional, com o objetivo de corrborar ou refutar a alegação da introdução.
 
 ## Especificações.
 
@@ -135,18 +134,18 @@ Referências retiradas do cap. 6 do curso citado acima:
 - 2) Responder e justificar apenas a pergunta  "O desarmamento civil produz resultados positivos para a população?". 
 - 3) Não precisa explicar os métodos utilizados.
 - 4) *Item removido*.
-- 5) O painel ou o infográfico, **em PDF**, deve ser finalizado e enviado para o professor até às **18:00** do dia 15 de julho. Envios posteriores srrão desconsiderados a apresentação será cancelada (tendo como efeito o trabalho não entregue e com nota zero). O envio deve ser feito para o professor e para todos os integrantes do grupo na mesma mensagem.
+- 5) O painel ou o infográfico, **em PDF**, deve ser finalizado e enviado para o professor até às **18:00** do dia da apresentação. Envios posteriores serão desconsiderados a apresentação será cancelada (tendo como efeito o trabalho não entregue e com nota zero). O envio deve ser feito para o professor e para todos os integrantes do grupo na mesma mensagem.
 - 6) O tempo de apresentação será de 10 minutos por grupo de alunos. Para cada 1 minuto excedente será descontado 1/10 do conceito da atividade, com o máximo de 5 minutos. O limite é de 15 minutos seguida de interrupção imediata.
 - 7) É reservado 5 minutos para que o professor e os demais alunos façam perguntas e as respostas sejam dadas (ou seja, o tempo não sofre pausa).
 - 8) Nenhuma observação será feita pelo professor no dia da apresentação.
 - 9) Os grupos devem se organizar para realizar as apresentações com início às 19:00.
-- 10) *Item removido*
+- 10) A presença na apresentação dos outros grupos faz parte da avaliação.
 - 11) O intervalo de tempo entre o fim de uma apresentação e o início de outra será arbitrado pelo professor.
 - 12) Formato da apresentação livre (mais de um dos integrantes podem apresentar).
 - 13) *Item removido*
 - 14) Salvo o item 11, a organização e as trocas de apresentação devem ser gerenciadas pelos próprios alunos.
 - 15) Casos de ausências devem ser justificados (sem a necessidade de comprovantes ou atestados diversos) por e-mail.
-- 16) Todos os grupos devem apresentar até o dia 15 de julho, sem alternativa possível (pois é o ultimo dia de aula).
+- 16) Todos os grupos devem apresentar até o dia da apresentação, sem alternativa possível (pois é o ultimo dia de aula).
 - 17) Antecipações serão permitidas e terão por feito nulo os itens 6 e 7, sendo os tempos, então, arbitrados com maior flexibilidade pelo professor no momento da apresentação.
 - 18) É arbitrado ao professor modificar, anular e adicionar itens em qualquer tempo.
 - 19) É arbitrado aos integrantes do grupo a melhor forma de apresentar e quais argumentos serão apresentados, não há limitações gerais.
