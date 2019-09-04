@@ -126,11 +126,11 @@ A liberdade econômica posibilita uma maior eficiência na produção de riqueza
 
 ### Proposta:
 
-Construir a apresentar um infográfico ou um painel (*dashboard*), com *storyboard* (painéis progressivos) opcional, com o objetivo de corrborar ou refutar a alegação da introdução.
+Construir a apresentar ~~um infográfico ou~~ um painel (*dashboard*), com *storyboard* (painéis progressivos) opcional, com o objetivo de corrborar ou refutar a alegação da introdução.
 
 ## Especificações.
 
-- 1) Apresentar na forma de painel de gráficos (*dashboard*) ou infográfico. No caso de painel, o *storyboard* é opcional. Apenas o infográfico pode ter barra de rolagem.
+- 1) Apresentar na forma de painel de gráficos (*dashboard*) ~~ou infográfico~~. No caso de painel, o *storyboard* é opcional. Apenas o infográfico pode ter barra de rolagem.
 - 2) Responder e justificar apenas a pergunta  "O desarmamento civil produz resultados positivos para a população?". 
 - 3) Não precisa explicar os métodos utilizados.
 - 4) *Item removido*.
@@ -163,7 +163,7 @@ Construir a apresentar um infográfico ou um painel (*dashboard*), com *storyboa
 - 7) *Item removido* 
 - 8) Não fique em dúvida, fale com o professor ou com os colegas. Mande e-mail para o professor com a dúvida quando não estiver em aula.
 
-# Trilha 4: Inadimplência no Cartão de Crédito. (desatualizado)
+# Trilha 5: Inadimplência no Cartão de Crédito. (desatualizado)
 
 ### Introdução:
 
