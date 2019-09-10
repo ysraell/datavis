@@ -131,9 +131,9 @@ Construir a apresentar ~~um infográfico ou~~ um painel (*dashboard*), com *stor
 ## Especificações.
 
 - 1) Apresentar na forma de painel de gráficos (*dashboard*) ~~ou infográfico~~. No caso de painel, o *storyboard* é opcional. Apenas o infográfico pode ter barra de rolagem.
-- 2) Responder e justificar apenas a pergunta  "O desarmamento civil produz resultados positivos para a população?". 
+- 2) ~~Responder e justificar apenas a pergunta  "O desarmamento civil produz resultados positivos para a população?".~~ O painel deve servir de justificativa para a sua argumentação, a quela deve corroborar ou refutar a alegação na introdução.
 - 3) Não precisa explicar os métodos utilizados.
-- 4) *Item removido*.
+- 4) Pode-se utilizar gráficos prontos disponíveis de forma livre na Internet, não há a necessidade de utilizar uma fonte de dados para gerar os gráficos, mas o faça caso seja conveniente. Adicione uma página com as referências em qualquer formato conhecido (APA, MLA, NBRs, IEEEs etc.). 
 - 5) O painel ou o infográfico, **em PDF**, deve ser finalizado e enviado para o professor até às **18:00** do dia da apresentação. Envios posteriores serão desconsiderados a apresentação será cancelada (tendo como efeito o trabalho não entregue e com nota zero). O envio deve ser feito para o professor e para todos os integrantes do grupo na mesma mensagem.
 - 6) O tempo de apresentação será de 10 minutos por grupo de alunos. Para cada 1 minuto excedente será descontado 1/10 do conceito da atividade, com o máximo de 5 minutos. O limite é de 15 minutos seguida de interrupção imediata.
 - 7) É reservado 5 minutos para que o professor e os demais alunos façam perguntas e as respostas sejam dadas (ou seja, o tempo não sofre pausa).
