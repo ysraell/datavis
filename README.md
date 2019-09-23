@@ -163,17 +163,17 @@ Construir a apresentar ~~um infográfico ou~~ um painel (*dashboard*), com *stor
 - 7) *Item removido* 
 - 8) Não fique em dúvida, fale com o professor ou com os colegas. Mande e-mail para o professor com a dúvida quando não estiver em aula.
 
-# Trilha 5: Inadimplência no Cartão de Crédito. (desatualizado)
+# Trilha 5: Inadimplência no Cartão de Crédito.
 
 ### Introdução:
 
-Com a maior popularização dos produtos como serviço (*as a service*), a automatização de crédito não ficaria de fora dessa. Com efeito, temos a modalidade de crédito como serviço (*credit as a service*), a qual fornece ao cliente um crédito de forma automatizada (sem intervenção humana). Nisso, abre-se um problema: como oferecer à financeira um nível de segurança adequado para o sistema automatizado de aprovação de crédito? 
+Com a maior popularização dos produtos como serviço (*as a service*), a automatização de crédito não ficaria de fora dessa. Com efeito, temos a modalidade de crédito como serviço (*credit as a service*), a qual fornece ao cliente um crédito de forma automatizada (sem intervenção humana). Nisso, abre-se um problema: como oferecer à financeira um nível de segurança adequado para o sistema automatizado de aprovação de crédito (segurança quanto ao risco de inadimplência)?
 
-No contexto apresentado, um gerente de uma financeira solicita a uma empresa de cientistas de dados uma forma de atribuir uma pontuação de risco de inadimplência de acordo, apenas, com o sexo, com o nível educacional, com o status matrimonial e com a idade. Tal forma poderá ser usada no sistema autônomo de crédito.
+No contexto apresentado, um gerente de uma financeira solicita a uma consultoria em ciencia de dados uma forma de atribuir uma pontuação de risco de inadimplência de acordo, apenas, com o sexo, com o nível educacional, com o status matrimonial e com a idade. Tal forma poderá ser usada no sistema autônomo de crédito.
 
 ### Proposta:
 
-Porduzir um painel (*dashboard*), com *storyboard* (painéis progressivos) opcional, com o qual justifica-se a forma utilizada de pontuação. A pontuação deve discriminar os clientes com diferentes características. Não há restrição em relação aos valores absolutos da pontuação. O cliente não está interessado em detalhes de inadimplência (quantas parcelas em atraso, tempo de atraso de pagamento etc.).
+Porduzir um painel (*dashboard*), com *storyboard* (painéis progressivos) **NÃO opcional**, com o qual justifica-se a forma utilizada de pontuação. A pontuação deve discriminar os clientes com diferentes características. Não há restrição em relação aos valores absolutos da pontuação. O cliente não está interessado em detalhes de inadimplência (quantas parcelas em atraso, tempo de atraso de pagamento etc.).
 
 ### Dados:
 
@@ -183,27 +183,25 @@ Arquivo: UCI_Credit_Card.csv (~2,8 MB).
 
 ## Especificações.
 
-- 1) Apresentar na forma de painel de gráficos (*dashboard*). O *storyboard* é opcional.
+- 1) Apresentar na forma de painel de gráficos (*dashboard*) **com *storyboard* **.
 - 2) Apresentar e justificar apenas os resultados.
 - 3) Não precisa explicar os métodos utilizados, mas deve, no mínimo, justificar o uso (durante a apresentação dos resultados).
-- 4) O painel para apresentação (e possíveis painéis progressivos) pode ser estático ou dinâmico.
-- 5) O painel **em PDF** deve ser enviado para o professor até às **18:00** do dia 15 de julho. Envios posteriores serão desconsiderados e a apresentação será cancelada, tendo como efeito o trabalho não entregue e com nota zero. O envio deve ser feito para o professor e para todos os integrantes do grupo no mesmo envio.
+- 4) O painel para apresentação e possíveis painéis progressivos (*storyboard*) podem ser estático ou dinâmico.
+- 5) O painel **em PDF** deve ser enviado para o professor até às **18:00** do dia da apresentação. Envios posteriores serão desconsiderados e a apresentação será cancelada, tendo como efeito o trabalho não entregue e com nota zero. O envio deve ser feito para o professor e para todos os integrantes do grupo no mesmo envio.
 - 6) O tempo de apresentação será de 10 minutos por grupo de alunos. Para cada 1 minuto excedente será descontado 1/10 do conceito da atividade, com o máximo de 5 minutos. O limite é de 15 minutos seguida de interrupção imediata.
 - 7) É reservado 5 minutos para que o gerente (cliente) faça perguntas e as respostas sejam dadas (ou seja, o tempo não sofre pausa).
 - 8) Nenhuma observação será feita pelo professor no dia da apresentação.
 - 9) Os grupos devem se organizar para realizar as apresentações com início às 19:00.
-- 10) *Item removidp*
-- 11) O intervalo de tempo entre o fim de uma apresentação e o início de outra será arbitrado pelo gerente (cliente).
-- 12) Apenas um integrante do grupo apresenta;
-- 13) os demais integrantes podem responder quando o gerente fizer perguntas.
-- 14) Salvo os itens 10 e 11, a organização e as trocas de apresentação devem ser gerenciadas pelos próprios alunos.
-- 15) Casos de ausências devem ser justificados (sem a necessidade de comprovantes ou atestados diversos) por e-mail.
-- 16) Todos os grupos devem apresentar até o dia 15 de julho, não há alternativa.
-- 17) Antecipações serão permitidas e terão por feito nulo os itens 6 e 7, sendo os tempos, então, arbitrados com maior flexibilidade pelo professor no momento da apresentação.
-- 18) É arbitrado ao professor modificar, anular e adicionar itens em qualquer tempo.
-- 19) É dispensada análise além dos dados disponibilizados. Não discorra sobre detalhes do contexto proposto que vão além dos dados e do que é solicitado. A analise deve ser totalmente orientado aos dados fornecidos.
-- 20) Não será avaliado pelo professor (e tão pouco verificado) os resultados, mas, sim, as justificativas e a forma como foram apresentados.
-- 21) Não há um desempenho mínimo de assertividade dos resultados, todavia não apresente resultados triviais.
+- 10) O intervalo de tempo entre o fim de uma apresentação e o início de outra será arbitrado pelo gerente (cliente).
+- 11) Apenas um integrante do grupo apresenta;
+- 12) os demais integrantes podem responder quando o gerente fizer perguntas.
+- 13) Salvo os itens 10 e 11, a organização e as trocas de apresentação devem ser gerenciadas pelos próprios alunos.
+- 14) Casos de ausências devem ser justificados (sem a necessidade de comprovantes ou atestados diversos) por e-mail, todavia não isenta o aluno de apresentar o trabalho dentro das datas de aula dessa disciplina. Ao término das aulas, as notas serão fechadas.
+- 15) Antecipações serão permitidas e terão por feito nulo os itens 6 e 7, sendo os tempos, então, arbitrados com maior flexibilidade pelo professor no momento da apresentação.
+- 16) É arbitrado ao professor modificar, anular e adicionar itens em qualquer tempo. 
+- 17) É dispensada análise além dos dados disponibilizados. Não discorra sobre detalhes do contexto proposto que vão além dos dados e do que é solicitado. A analise deve ser totalmente orientado aos dados fornecidos.
+- 18) Não será avaliado pelo professor (e tão pouco verificado) os resultados, mas, sim, as justificativas e a forma como foram apresentados.
+- 19) Não há um desempenho mínimo de assertividade dos resultados, todavia não apresente resultados triviais.
 
 ## Recomendações.
 
