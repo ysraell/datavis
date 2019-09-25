@@ -30,3 +30,5 @@ Muito útil também para EDAs.
 5) NLP: texto.
 
 6) Grafos: redes complexas.
+Métodos baseados em grafos vem recebnedo cada vez mais atenção. Em muitos casos, resolve problemas os quais não se resolve com ML clássico ou convencional. Possui um grande potencial e ainda que uma baixa demanda em relação às outras técnicas, a oferta de profissionais com esse conhecimento é baixíssima. 
+- Grafos e base dados baseados em grafo.
