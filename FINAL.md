@@ -1,7 +1,5 @@
 # Dicas finais:
-Infográficos: 
-[Visual Capitalist](https://www.visualcapitalist.com/)
-[Piktochart](https://piktochart.com/)
+Infográficos: [Visual Capitalist](https://www.visualcapitalist.com/) e [Piktochart](https://piktochart.com/).
 
 0) Cálculo diferencial e integral.
 - Livros de cálculo mais famosos de nível universitário.
