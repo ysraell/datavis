@@ -16,3 +16,7 @@
 - Google Charts (JS): https://developers.google.com/chart/?hl=pt-US
 - Polymaps (JS): http://polymaps.org/
 - FACETS (JS): https://pair-code.github.io/facets/
+
+# Bônus
+- [Streamlit](https://streamlit.io/).
+- [Turn Python Scripts into Beautiful ML Tools](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace)
