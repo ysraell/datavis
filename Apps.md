@@ -18,6 +18,12 @@
 - Polymaps (JS): http://polymaps.org/
 - FACETS (JS): https://pair-code.github.io/facets/
 
+# Etc.
+
+- [Medium: Data Storytelling Canvas](https://medium.com/@stefanocarnevalli/data-storytelling-canvas-conte-a-hist%C3%B3ria-do-seus-dados-9313d786bed9)
+- [The Story Canvas](https://www.digitalstorytellers.com.au/the-story-canvas/)
+- [Analysis Canvas Software](https://online.visual-paradigm.com/pt/diagrams/features/analysis-canvas-software/)
+
 # Bônus
 - [Streamlit](https://streamlit.io/).
 - [Turn Python Scripts into Beautiful ML Tools](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace)

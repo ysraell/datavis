@@ -117,7 +117,53 @@ Referências retiradas do cap. 6 do curso citado acima:
 
 --------------------
 
-# Trilha 3: Inadimplência no Cartão de Crédito.
+
+# Trilha 3: Liberdade Econômica.
+
+### Introdução:
+
+A liberdade econômica posibilita uma maior eficiência na produção de riqueza. Países/regiões que investiram no sentido de aumentar a liberdade econômica conseguiram melhorar seus índices socio-econômicos. Do outro lado, pode-se observar uma fuga de pessoas (principalmente com maior nível eduacional) de países menos livres para os mais livres (p.e.: fuca de Cuba para os EUA).
+
+### Proposta:
+
+Construir a apresentar ~~um infográfico ou~~ um painel (*dashboard*), com *storyboard* (painéis progressivos) opcional, com o objetivo de corrborar ou refutar a alegação da introdução.
+
+## Especificações.
+
+- 1) Apresentar na forma de painel de gráficos (*dashboard*) ~~ou infográfico~~. No caso de painel, o *storyboard* é opcional. Apenas o infográfico pode ter barra de rolagem.
+- 2) ~~Responder e justificar apenas a pergunta  "O desarmamento civil produz resultados positivos para a população?".~~ O painel deve servir de justificativa para a sua argumentação, a quela deve corroborar ou refutar a alegação na introdução.
+- 3) Não precisa explicar os métodos utilizados.
+- 4) Pode-se utilizar gráficos prontos disponíveis de forma livre na Internet, não há a necessidade de utilizar uma fonte de dados para gerar os gráficos, mas o faça caso seja conveniente. Adicione uma página com as referências em qualquer formato conhecido (APA, MLA, NBRs, IEEEs etc.). 
+- 5) O painel ou o infográfico, **em PDF**, deve ser finalizado e enviado para o professor até às **18:00** do dia da apresentação. Envios posteriores serão desconsiderados a apresentação será cancelada (tendo como efeito o trabalho não entregue e com nota zero). O envio deve ser feito para o professor e para todos os integrantes do grupo na mesma mensagem.
+- 6) O tempo de apresentação será de 10 minutos por grupo de alunos. Para cada 1 minuto excedente será descontado 1/10 do conceito da atividade, com o máximo de 5 minutos. O limite é de 15 minutos seguida de interrupção imediata.
+- 7) É reservado 5 minutos para que o professor e os demais alunos façam perguntas e as respostas sejam dadas (ou seja, o tempo não sofre pausa).
+- 8) Nenhuma observação será feita pelo professor no dia da apresentação.
+- 9) Os grupos devem se organizar para realizar as apresentações com início às 19:00.
+- 10) A presença na apresentação dos outros grupos faz parte da avaliação.
+- 11) O intervalo de tempo entre o fim de uma apresentação e o início de outra será arbitrado pelo professor.
+- 12) Formato da apresentação livre (mais de um dos integrantes podem apresentar).
+- 13) *Item removido*
+- 14) Salvo o item 11, a organização e as trocas de apresentação devem ser gerenciadas pelos próprios alunos.
+- 15) Casos de ausências devem ser justificados (sem a necessidade de comprovantes ou atestados diversos) por e-mail.
+- 16) Todos os grupos devem apresentar até o dia da apresentação, sem alternativa possível (pois é o ultimo dia de aula).
+- 17) Antecipações serão permitidas e terão por feito nulo os itens 6 e 7, sendo os tempos, então, arbitrados com maior flexibilidade pelo professor no momento da apresentação.
+- 18) É arbitrado ao professor modificar, anular e adicionar itens em qualquer tempo.
+- 19) É arbitrado aos integrantes do grupo a melhor forma de apresentar e quais argumentos serão apresentados, não há limitações gerais.
+- 20) Não será avaliado, nem julgado, pelo professor (e tão pouco verificado) os dados e informações usados, serão avaliados apenas os seguintes itens: qualidade do material produzido e o correto uso dos gráficos.
+- 21) *Item removido*.
+
+## Recomendações.
+
+- 1) Não use blocos de textos e não leia durante a apresentação. Ainda que se use um infográfico, evite ao máximo textos volumosos.
+- 2) Use até 6 quadros ou blocos de gráfico(s) (frames) até dois quadros progressivos (*storyboard*) por quadro.
+- 3) Não conte a história do trabalho prévio, foque apenas em mostrar e justificar a análise e suas conclusões.
+- 4) Ensaie a apresentação com um cronômetro com alarme.
+- 5) Escreva os tópicos a serem tratados com um resumo das explicações e verifique se está coerente com o que é mostrado e se contribui como justificativa. Não há a necessidade de explicar o que deu errado previamente ou demais detalhes da análise que não sirvam como justificativa direta para os resultados.
+- 6) *Item removido*
+- 7) *Item removido* 
+- 8) Não fique em dúvida, fale com o professor ou com os colegas. Mande e-mail para o professor com a dúvida quando não estiver em aula.
+
+# Trilha 5: Inadimplência no Cartão de Crédito.
 
 ### Introdução:
 
@@ -171,10 +217,3 @@ Arquivo: UCI_Credit_Card.csv (~2,8 MB).
 #### Referências:
 
 [Default of credit card clients Data Set.](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)
-
-
---------------------
-
-# Trilha Final: **Disponível em breve**.
-
---------------------
