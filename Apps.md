@@ -20,6 +20,7 @@
 
 # Etc.
 
+- [Dashboards in Python: 3 Advanced Examples for Dash Beginners and Everyone Else](https://medium.com/swlh/dashboards-in-python-3-advanced-examples-for-dash-beginners-and-everyone-else-b1daf4e2ec0a)
 - [Medium: Data Storytelling Canvas](https://medium.com/@stefanocarnevalli/data-storytelling-canvas-conte-a-hist%C3%B3ria-do-seus-dados-9313d786bed9)
 - [The Story Canvas](https://www.digitalstorytellers.com.au/the-story-canvas/)
 - [Analysis Canvas Software](https://online.visual-paradigm.com/pt/diagrams/features/analysis-canvas-software/)
@@ -27,3 +28,5 @@
 # Bônus
 - [Streamlit](https://streamlit.io/).
 - [Turn Python Scripts into Beautiful ML Tools](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace)
+- [Miro](miro.com)
+- [Mural](mural.co)
