@@ -175,6 +175,58 @@ Arquivo: UCI_Credit_Card.csv (~2,8 MB).
 
 --------------------
 
-# Trilha Final: **Disponível em breve**.
+# Trilha Final: Análise de serviço de suporte.
+
+Um time de suporte possui 3 níveis de especialidade, e cada qual com seu grau de eficiência. Nos últimos dias houve um incremento significativo de clientes e de chamados. Você é um candidato à vaga de cientista de dados e lhe foi solicitada uma avaliação do histórico do suporte oferecendo insights nos quais serão tomadas ações para melhorar o atendimento dado pelo time de suporte.
+
+Entrega: gerar insights sobre o histórico, como, por exemplo: quando um técnico de nível 1 era promovido, a demanda diminuía; um técnico de nível 3 é mais barato que 3 de nível 1 etc.
+
+*Público-alvo:* diretor de TI (aka Cliente).
+
+## Alguns pontos interessantes:
+
+- 1) O Cliente não acredita que vale a pena ter mais de um nível 3 de forma permanente, houve um momento em que tivemos dois ao mesmo tempo, mas era temporário apenas para substituição. Será que com uma boa argumentação, não é possível fazer o Cliente mudar de ideia?
+- 2) Todos os casos de saída de técnicos ocorreram por pedido do próprio técnico.
+- 3) Até o momento, o limite de level 1 é de 8, do level 2 é 6 e do level 3 é 1. Vale a pena mudar esses limites? O Cliente acredita que não, mas você consegue fazê-lo mudar de ideia?
+- 4) O Cliente espera insights especificamente lógicos com base nos dados, podendo considerar todos dados disponíveis.
+- 5) Não há técnicos de nível 2 ou 3 contratados, a única forma de consegui-los é promovendo os de nível menor.
+
+## Requisitos de entrega:
+
+- 1) No formato de painel (dashboard), com no máximo 8 frames, podendo discorrer sobre cada um individualmente na modalidade de painéis progressivos (storyboard).
+- 2) Faça uma apresentação de até 8 minutos, podendo chegar em 10 minutos. A partir dos 10 minutos, você estará automaticamente desclassificado para concorrer à vaga e sua apresentação interrompida.
+- 3) No caso de desclassificação, sua não haverá penalizações quanto a sua avaliação na disciplina.
+
+## Especificações para apresentação:
+
+- 1) Todos os grupos devem apresentar, caso alguém mais queira apresentar além dos sorteados, poderá fazê-lo após as principais.
+- 2) Poderá haver apresentação antecipada. Basta informar o professor.
+- 3) O Cliente está sempre disponível para tirar dúvidas e isso não afetará a sua classificação no recrutamento.
+
+## Dados:
+
+- 1) Disponíveis em `trilha_final.csv`.
+- 2) Os dados foram gerados por meio de uma simulação Gerador-Destruidor (simulando um negócio genérico como o de chamados no atendimento de suporte). Confiram o notebook Jupyter: `Trilha_Final_Simulador.ipynb`.
+- 3) São as colunas:
+- `qtd_D`: quantidade de chamados em atendimento não finalizados no mesmo dia.
+- `qtd_G`: quantidade de chamados abertos ainda não atendidos.
+- `qtd_dia`: quantidade de chamados abertos no dia.
+- `n_L1`: quantidade de técnicos de nível 1.
+- `n_L2`: quantidade de técnicos de nível 2.
+- `n_L3`: quantidade de técnicos de nível 3.
+- `n_Geradores`: quantidade de clientes.
+- `custo_dia`: custo total no dia.
+- `renda_dia`: renda no dia.
+- `data`: data.
+
+*Ponto chave dessa trilha:* conciso e objetivo.
+
+### Dicas:
+
+- 1) Treine a apresentação com um cronômetro!!
+- 2) Foco nos argumentos! E não no história da sua análise e nem na EDA.
+- 3) Apenas os quadros (frames) com os gráficos e bem pouco texto (só legendas ou highlights). Sem molduras, sem capa, sem floreios.
+
+
 
 --------------------
