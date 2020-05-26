@@ -6,7 +6,7 @@
 
 4) Dashboard com [Moqups](https://moqups.com/)
 
-5) [Learning pyramid](Learning pyramid)
+5) Learning pyramid
 - [Other formats](https://www.google.com/search?q=the+learning+pyramid)
 
 6) [Pandas Plot](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
