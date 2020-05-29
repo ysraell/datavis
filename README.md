@@ -205,7 +205,7 @@ Entrega: gerar insights sobre o histórico, como, por exemplo: quando um técnic
 
 ## Dados:
 
-- 1) Disponíveis em `trilha_final.csv`.
+- 1) Disponíveis em `trilha_final2.csv`.
 - 2) Os dados foram gerados por meio de uma simulação Gerador-Destruidor (simulando um negócio genérico como o de chamados no atendimento de suporte). Confiram o notebook Jupyter: `Trilha_Final_Simulador.ipynb`.
 - 3) São as colunas:
 - `qtd_D`: quantidade de chamados em atendimento não finalizados no mesmo dia.
@@ -214,12 +214,21 @@ Entrega: gerar insights sobre o histórico, como, por exemplo: quando um técnic
 - `n_L1`: quantidade de técnicos de nível 1.
 - `n_L2`: quantidade de técnicos de nível 2.
 - `n_L3`: quantidade de técnicos de nível 3.
+- `des_dia_1`: quantidade chamados fechados pelos técnicos de nível 1.
+- `des_dia_2`: quantidade chamados fechados pelos técnicos de nível 2.
+- `des_dia_3`: quantidade chamados fechados pelos técnicos de nível 3.
 - `n_Geradores`: quantidade de clientes.
 - `custo_dia`: custo total no dia.
 - `renda_dia`: renda no dia.
 - `data`: data.
+- 4) Alguns parâmetros adicionais:
+- Custo diário do técnico de nível 1: '3000/20'
+- Custo diário do técnico de nível 2: '4000/20'
+- Custo diário do técnico de nível 3: '5500/20'
+- Custo para subir do nível 1 para o nível 2: '3000'
+- Custo para subir do nível 2 para o nível 3: '7000'
 
-*Ponto chave dessa trilha:* conciso e objetivo.
+*Pontos dessa trilha:* conciso e objetivo.
 
 ### Dicas:
 
