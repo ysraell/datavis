@@ -194,8 +194,8 @@ Entrega: gerar insights sobre o histórico, como, por exemplo: quando um técnic
 ## Requisitos de entrega:
 
 - 1) No formato de painel (dashboard), com no máximo 8 frames, podendo discorrer sobre cada um individualmente na modalidade de painéis progressivos (storyboard).
-- 2) Faça uma apresentação de até 8 minutos, podendo chegar em 10 minutos. A partir dos 10 minutos, você estará automaticamente desclassificado para concorrer à vaga e sua apresentação interrompida.
-- 3) No caso de desclassificação, sua não haverá penalizações quanto a sua avaliação na disciplina.
+- 2) Faça uma apresentação de até 8 minutos, podendo chegar em 10 minutos. A partir dos 10 minutos, você estará automaticamente desclassificado para concorrer à vaga ~e sua apresentação interrompida~.
+- 3) No caso de desclassificação, sua nota não haverá penalizações quanto a sua avaliação na disciplina.
 
 ## Especificações para apresentação:
 
