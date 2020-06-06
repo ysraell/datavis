@@ -227,6 +227,7 @@ Entrega: gerar insights sobre o histórico, como, por exemplo: quando um técnic
 - Custo diário do técnico de nível 3: '5500/20'
 - Custo para subir do nível 1 para o nível 2: '3000'
 - Custo para subir do nível 2 para o nível 3: '7000'
+- 5) O valor `renda_dia` já é considerado o valor descontando os outros custos da empresa, portanto ele pode ser considerado para livre realocação para custear do serviço de suporte.
 
 *Pontos dessa trilha:* conciso e objetivo.
 
