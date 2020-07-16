@@ -1,6 +1,6 @@
 ## Tópicos
 
-0) Requisitos: básicos.
+0) Requisitos básicos.  
 1) Analítico vs design.
 2) Significativo vs mecânico.
 3) 6 lições (SWD).
@@ -33,5 +33,9 @@ Referências retiradas do cap. 6 do curso citado acima:
 
 - Painéis no Power BI https://powerbi.microsoft.com/pt-br/documentation/powerbi-service-dashboards/
 
+#### Python (EDA\*)
 
+- [Yellowbrick](https://www.scikit-yb.org/en/latest/index.html)
+
+Machine Learning Visualizations with Yellowbrick: An open-source python toolkit to accelerate your Model Selection with visual analysis and diagnostic tools. [Acesso](https://medium.com/data-science-community-srm/machine-learning-visualizations-with-yellowbrick-3c533955b1b3), [Jupyter Notebook](https://github.com/ysraell/examples/blob/master/Yellowbrick/Tutorial.ipynb).
 
