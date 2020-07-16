@@ -7,7 +7,9 @@
 4) ST vs QA.
 5) Apresentações.
 
-## Material de apoio.
+## Material de apoio. 
+
+- TODO: Revisão dos links.
 
 ### Programas para montar o painel:
 
