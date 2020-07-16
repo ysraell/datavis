@@ -2,5 +2,5 @@
 1) Analítico vs design.
 2) Significtivo vs mecânico.
 3) 6 liçoes (SWD).
-4) SWD.
-5) ST vs QA.
+4) ST vs QA.
+5) Apresentações.
