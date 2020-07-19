@@ -5,7 +5,10 @@
 2) Significativo vs mecânico.
 3) 6 lições (SWD).
 4) ST vs QA.
-5) Apresentações.
+5) Apresentações: *slides* (telas), *dashboard*/*storyboard* com *frames* (quadros) ou infográficos.
+6) [Teste de hipótese.](https://pt.wikipedia.org/wiki/Testes_de_hip%C3%B3teses#:~:text=Calcular%20a%20estat%C3%ADstica%20de%20teste,n%C3%ADvel%20de%20signific%C3%A2ncia%20pr%C3%A9%E2%80%93estabelecido.)
+7) Metodologia ágil aplicada á produção de apresentações.
+
 
 ## Material de apoio. 
 
@@ -39,3 +42,18 @@ Referências retiradas do cap. 6 do curso citado acima:
 
 Machine Learning Visualizations with Yellowbrick: An open-source python toolkit to accelerate your Model Selection with visual analysis and diagnostic tools. [Acesso](https://medium.com/data-science-community-srm/machine-learning-visualizations-with-yellowbrick-3c533955b1b3), [Jupyter Notebook](https://github.com/ysraell/examples/blob/master/Yellowbrick/Tutorial.ipynb).
 
+#### LaTeX
+
+- [Overleaf](https://www.overleaf.com/)
+
+#### Estatística:
+
+- [Introduction to Hypothesis Testing.](https://us.sagepub.com/sites/default/files/upm-binaries/40007_Chapter8.pdf)
+
+- [Teste A/B prático.](https://github.com/ysraell/examples/tree/master/TestAB_Math)
+
+- Como Mentir com Estatística (Darrell Huff).
+
+#### Outros:
+
+- [12 livros extremamente úteis sobre visualização de dados](https://cio.com.br/12-livros-extremamente-uteis-sobre-visualizacao-de-dados/)

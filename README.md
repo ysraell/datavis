@@ -6,7 +6,7 @@ Mostrar que é possível ordenar os passageiros por risco de vida com base no ac
 
 ### Fundo conceitual:
 
-Poucos dias após o acidente, um novo navio de mesmo modelo fará uma viagem com mesmo local de partida e mesmo local de destino. Uma seguradora foi contratada para oferecer um seguro individual para os passageiros. Um consultor dessa seguradora solicitou a algumas *startups* de ciência de dados que elaborassem um modelo que ordene os passageiros do Titanic em ordem de risco de vida e, a partir disso, mostrar quais características são mais discriminantes para isso. O consultor quer ver quais são as tais características e um resumo do modelo (com as equações mais relevantes).
+Poucos dias após o acidente ocorrido com o navio de passageiros britânico RMS Titanic, no dia 15 de abril de 1912, um novo navio de mesmo modelo fará uma viagem com mesmo local de partida e mesmo local de destino. Uma seguradora foi contratada para oferecer um seguro individual para os passageiros. Um consultor dessa seguradora solicitou a algumas *startups* de ciência de dados que descobrissem quais são os principais fatores entre os que sobreviveram e os que não sobreviveram. 
 
 #### Base de dados: 
 
