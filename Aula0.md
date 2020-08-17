@@ -8,7 +8,7 @@
 5) Apresentações: *slides* (telas), *dashboard*/*storyboard* com *frames* (quadros) ou infográficos.
 6) [Teste de hipótese.](https://pt.wikipedia.org/wiki/Testes_de_hip%C3%B3teses#:~:text=Calcular%20a%20estat%C3%ADstica%20de%20teste,n%C3%ADvel%20de%20signific%C3%A2ncia%20pr%C3%A9%E2%80%93estabelecido.)
 7) Metodologia ágil aplicada á produção de apresentações.
-
+8) Retomada e correção de gráficos.
 
 ## Material de apoio. 
 
