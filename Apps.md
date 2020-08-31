@@ -25,6 +25,9 @@
 - [Medium: Data Storytelling Canvas](https://medium.com/@stefanocarnevalli/data-storytelling-canvas-conte-a-hist%C3%B3ria-do-seus-dados-9313d786bed9)
 - [The Story Canvas](https://www.digitalstorytellers.com.au/the-story-canvas/)
 - [Analysis Canvas Software](https://online.visual-paradigm.com/pt/diagrams/features/analysis-canvas-software/)
+- [Make the cutest charts in Python](https://towardsdatascience.com/make-the-cutest-chart-in-python-visualize-your-data-with-hand-drawn-charts-f21157f76b4b)
+- [Visualize Your Data With Hand-Drawn Charts](https://medium.com/better-programming/visualize-your-data-with-hand-drawn-charts-with-the-roughviz-charting-library-a3a9f3ee4f84)
+- [XKCD-style plots in Matplotlib](https://jakevdp.github.io/blog/2012/10/07/xkcd-style-plots-in-matplotlib/)
 
 # Bônus
 - [Streamlit](https://streamlit.io/).
