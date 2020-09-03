@@ -65,14 +65,6 @@ Arquivo: UCI_Credit_Card.csv (~2,8 MB).
 
 --------------------
 
-# Trilha 4: FIFA.
-
-### Introdução:
-
-*Em desenvolvimento.*
-
---------------------
-
 # Trilha Final: Análise de serviço de suporte.
 
 Um time de suporte possui 3 níveis de especialidade, e cada qual com seu grau de eficiência. Nos últimos dias houve um incremento significativo de clientes e de chamados. Você é um candidato à vaga de cientista de dados e lhe foi solicitada uma avaliação do histórico do suporte oferecendo insights nos quais serão tomadas ações para melhorar o atendimento dado pelo time de suporte.
