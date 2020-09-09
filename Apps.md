@@ -28,6 +28,7 @@
 - [Make the cutest charts in Python](https://towardsdatascience.com/make-the-cutest-chart-in-python-visualize-your-data-with-hand-drawn-charts-f21157f76b4b)
 - [Visualize Your Data With Hand-Drawn Charts](https://medium.com/better-programming/visualize-your-data-with-hand-drawn-charts-with-the-roughviz-charting-library-a3a9f3ee4f84)
 - [XKCD-style plots in Matplotlib](https://jakevdp.github.io/blog/2012/10/07/xkcd-style-plots-in-matplotlib/)
+- [Monte Carlo Simulation An In-depth Tutorial with Python](https://medium.com/towards-artificial-intelligence/monte-carlo-simulation-an-in-depth-tutorial-with-python-bcf6eb7856c8)
 
 # Bônus
 - [Streamlit](https://streamlit.io/).
