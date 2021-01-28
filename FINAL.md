@@ -40,5 +40,5 @@ Dica de curso: [Análise em Grafos para Big Data](https://www.datascienceacademy
 
 ### Achados
 
-- [The Ultimate Data Science Prerequisite Learning List](https://towardsdatascience.com/the-ultimate-data-science-prerequisite-learning-list-348ce89805f9.)
+- [The Ultimate Data Science Prerequisite Learning List](https://towardsdatascience.com/the-ultimate-data-science-prerequisite-learning-list-348ce89805f9).
 
