@@ -17,7 +17,7 @@ Básico para enteder os fundamentos de implementação de diversos métodos de m
 Recomendação: escolher um método de cada vez e exercitar (implementar from scrach), iniciando pelos mais simples.
 
 3) Aprofundamento em pelo menos uma lingagem de uso geral mais popular e uma promissora.
-Por exemplo: Python ou C# para o momento atual e Júlia ou Rust para o futuro.
+Por exemplo: Python para agora e Júlia para o futuro. Seja mestre numa primeiro!
 - Cursos de fundamentos, seguido de cursos mais avançados. Cursos online e prefira a obtenção de certificado.
 - Pratique em sites como o Hackerrank.
 Recomendação: podes fazer esse item antes e usá-lo nos itens anteriores.
