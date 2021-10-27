@@ -33,13 +33,13 @@ Muito útil também para EDAs.
 6) NLP: texto.
 - Exemplos resolvidos, cursos online e tutoriais.
 
-7) Grafos: redes complexas.
+7) Estatística para ciência de dados. 
+- Exemplos resolvidos, cursos online e tutoriais.
+
+8) Grafos: redes complexas.
 Métodos baseados em grafos vem recebnedo cada vez mais atenção. Em muitos casos, resolve problemas os quais não se resolve com ML clássico ou convencional. Possui um grande potencial e ainda que uma baixa demanda em relação às outras técnicas, a oferta de profissionais com esse conhecimento é baixíssima. 
 - Grafos e base dados baseados em grafo.
 Dica de curso: [Análise em Grafos para Big Data](https://www.datascienceacademy.com.br/pages/curso-analise-em-grafos-para-big-data)
-
-8) Estatística para ciência de dados. 
-- Exemplos resolvidos, cursos online e tutoriais.
 
 ### Achados
 
